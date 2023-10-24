@@ -86,6 +86,9 @@ section {
     width: 100px;
     height: 100px;
     background-color: #a69f94;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     transition: all .3s;
 }
 
